@@ -1,16 +1,15 @@
-## Hi there 👋
+BEM VINDO AO MEU PERFIL😁🤩
 
-<!--
-**KAUAAAN/KAUAAAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MEU NOME É KAUAN HENRIQUE OLIVEIRA SOUZA.**
 
-Here are some ideas to get you started:
+ ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT E MARKDOWN.
+  
+ESTE É UM REPOSITÓRIO PARA COMPARTILHAMENTO DE PROJETOS PESSOAIS DA PLATAFORMA [ALURA](https://cursos.alura.com.br/dashboard).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**VOCÊ PODE ENTRAR EM CONTATO COMIGO🥰:**
+  
+  00001111587000sp@al.educacao.sp.gov.br
+ 
+ ![](https://media1.tenor.com/m/Fj0IJIbKCyAAAAAC/thanks.gif)
+
+ 
